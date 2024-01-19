@@ -1,4 +1,4 @@
-Create your catkin workspace and add the contents of this directory in the src folder. Run catkin_make.
+Create your catkin workspace and add the contents of this repo in the src folder. Run catkin_make.
 Follow the steps below to test the code-
 1) Start the ros master in 1st terminal- roscore
 2) In 2nd terminal, run the ros node to publish the camera feed to the image_raw topic- rosrun my_camera_pkg camera_node.py
